@@ -1,4 +1,4 @@
-🪧 Demo :- https://github.com/hrk7709/coding-ninja-alarm-clock-skilltest.git
+🪧 Demo :- [https://github.com/hrk7709/coding-ninja-alarm-clock-skilltest.git](https://alarm-clcok-codingninja.netlify.app/)
 
 ---
 
